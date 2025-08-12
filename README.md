@@ -72,13 +72,6 @@ The easiest way to deploy your Next.js application is by using the [Vercel Platf
 
 Check out the [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-## Learning Credits
-
-This project was built based on the **YouTube** tutorial:
-
-🎬 [**_Create a Stunning AI Landing Page from Scratch (React, Next.js, Tailwind, Framer Motion)_**](https://youtu.be/Z7I5uSRHMHg?si=lBpp_nXP7I0_-pCu)  
-👨🏻‍💻 [Frontend Tribe](https://www.youtube.com/@frontend-tribe)
-
 ## License
 
 This project is open source and available under the [MIT License](https://mit-license.org/).  
